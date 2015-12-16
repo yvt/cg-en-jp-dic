@@ -3,10 +3,12 @@ Albedo, 反射能, はんしゃのう,
 Ambient Light, 環境光, かんきょうこう,
 Ambient Occlusion, 環境遮蔽, かんきょうしゃへい, 
 Buffer, 記憶領域, きおくりょういき, 出典なし
+Computer Graphics, 計算機画像生成, けいさんきがぞうせいせい, 微妙
 Deferred Shading, 遅延陰影付け, ちえんいんえいづけ, 
 Depth Buffer, 深度記憶領域, しんどきおくりょういき,
 Depth Value, 深度値, しんどち, 
 Displacement Mapping, 変位写像法, へんいしゃぞうほう, 
+Environment Mapping, 環境写像法, かんきょうしゃぞうほう,
 Forward Shading, 先方陰影付け, せんぽういんえいづけ, 出典なし
 Geometry, 幾何形状, きかけいじょう, 出典なし
 Geometry Pass, 幾何形状[???], きかけいじょう[???],
@@ -24,6 +26,7 @@ Polygon, 多角形, たかくけい,「多角形」では三角形が含まれ�
 Ray, 光線, こうせん, 
 Ray Tracing, 光線追跡法, こうせんついせきほう, 
 Reflection, 反射, はんしゃ,
+Reflection Mapping, 反射写像法, はんしゃしゃぞうほう,
 Refraction, 屈折, くっせつ,
 Rendering, 描画, びょうが, 
 Rendering Pass, 描画[???], びょうが[???],
