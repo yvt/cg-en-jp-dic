@@ -2,6 +2,7 @@ English, 日本語, よみ, 備考
 Albedo, 反射能, はんしゃのう,
 Ambient Light, 環境光, かんきょうこう,
 Ambient Occlusion, 環境遮蔽, かんきょうしゃへい, 
+Axis Aligned Bounding Box, 軸平行直方体, じくへいこうちょくほうたい, 
 Buffer, 記憶領域, きおくりょういき, 出典なし
 Computer Graphics, 計算機画像生成, けいさんきがぞうせいせい, 微妙
 Deferred Shading, 遅延陰影付け, ちえんいんえいづけ, 
@@ -13,12 +14,15 @@ Forward Shading, 先方陰影付け, せんぽういんえいづけ, 出典な�
 Geometry, 幾何形状, きかけいじょう, 出典なし
 Geometry Pass, 幾何形状[???], きかけいじょう[???],
 Height Map, 高さ写像, たかさしゃぞう, 
+Hidden Surface Removal, 隠面消去(法), いんめんしょうきょ(ほう),
 Image, 画像, がぞう,
 Local Space, 局所空間, きょくしょくうかん,
 Material, 質感, しつかん, 
 Normal, 法線, ほうせん,
 Object Space, 物体空間, ぶったいくうかん,
 Obscurance, 遮蔽度, しゃへいど, 
+Opaque, 不透明, ふとうめい,
+Opaque Object, 不透明物体, ふとうめいぶったい,
 Order Independent Transparency, 順序非依存型透過, じゅんじょひいぞんがたとうか, 
 Path Tracing, [???]追跡法, [???]ついせきほう, Pathって何?
 Perspective Transform, 投影変換, とうえいへんかん,
@@ -41,9 +45,14 @@ Texture, 肌理, きめ,
 Texture Coordinate, 肌目座標, きめざひょう,
 Texture Map, 肌理写像, きめしゃぞう, Texture Mapをルックアップテーブル的なものと考えると、この訳は正しくない気がする…
 Texture Mapping, 肌理写像法, きめしゃぞうほう,
+Transparent, 透明, とうめい,
+Transparent Object, 透明物体, とうめいぶったい,
 Triangle, 三角形, さんかくけい, 
 Vector, 方向量, ほうこうりょう,
 Vertex, 頂点, ちょうてん, 
-Z-buffer, [???]記憶領域, [???]きおくりょういき, 
-Z-buffering, [???]記憶領域法, [???]きおくりょういきほう, 不自然
-Z Value, [???]値, [???]ち, 和算が参考になるかも?
+X, 甲, こう, 妄想
+Y, 乙, おつ, 妄想
+Z, 丙, へい, 妄想
+Z-buffer, 丙座値標記憶領域, へいざひょうちきおくりょういき, 
+Z-buffering, 丙座標値記憶領域法, へいざひょうちきおくりょういきほう, 不自然
+Z Value, 丙座標値, へいざひょうち, 
