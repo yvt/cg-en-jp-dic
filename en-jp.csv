@@ -1,4 +1,7 @@
 English, 日本語, よみ, 備考
+Albedo, 反射能, はんしゃのう,
+Ambient Light, 環境光, かんきょうこう,
+Ambient Occlusion, 環境遮蔽, かんきょうしゃへい, 
 Buffer, 記憶領域, きおくりょういき, 出典なし
 Deferred Shading, 遅延陰影付け, ちえんいんえいづけ, 
 Depth Buffer, 深度記憶領域, しんどきおくりょういき,
@@ -9,19 +12,28 @@ Geometry, 幾何形状, きかけいじょう, 出典なし
 Geometry Pass, 幾何形状[???], きかけいじょう[???],
 Height Map, 高さ写像, たかさしゃぞう, 
 Image, 画像, がぞう,
+Local Space, 局所空間, きょくしょくうかん,
 Material, 質感, しつかん, 
 Normal, 法線, ほうせん,
+Object Space, 物体空間, ぶったいくうかん,
+Obscurance, 遮蔽度, しゃへいど, 
 Order Independent Transparency, 順序非依存型透過, じゅんじょひいぞんがたとうか, 
 Path Tracing, [???]追跡法, [???]ついせきほう, Pathって何?
 Perspective Transform, 投影変換, とうえいへんかん,
 Polygon, 多角形, たかくけい,「多角形」では三角形が含まれないようなニュアンスがある気がするので不適な場合があるかも?
 Ray, 光線, こうせん, 
 Ray Tracing, 光線追跡法, こうせんついせきほう, 
+Reflection, 反射, はんしゃ,
+Refraction, 屈折, くっせつ,
 Rendering, 描画, びょうが, 
 Rendering Pass, 描画[???], びょうが[???],
+Screen Space, 画面空間, がめんくうかん, 
+Screen Space Ambient Occlusion, 画面空間環境遮蔽, がめんくうかんかんきょうしゃへい,
 Shader, [???], [???], 
 Shading, 陰影付け, いんえいづけ,
 Shadow Map, [???]写像, [???]しゃぞう, 
+Stencil, 型板, かたいた, 
+Stencil Buffer, 型板記憶領域, かたいたきおくりょういき, 
 Texture, 肌理, きめ,
 Texture Coordinate, 肌目座標, きめざひょう,
 Texture Map, 肌理写像, きめしゃぞう, Texture Mapをルックアップテーブル的なものと考えると、この訳は正しくない気がする…
