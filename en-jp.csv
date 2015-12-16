@@ -14,7 +14,7 @@ Normal, 法線, ほうせん,
 Order Independent Transparency, 順序非依存型透過, じゅんじょひいぞんがたとうか, 
 Path Tracing, [???]追跡法, [???]ついせきほう, Pathって何?
 Perspective Transform, 投影変換, とうえいへんかん,
-Polygon, 多角形, 「多角形」では三角形が含まれないようなニュアンスがある気がするので不適な場合があるかも?
+Polygon, 多角形, たかくけい,「多角形」では三角形が含まれないようなニュアンスがある気がするので不適な場合があるかも?
 Ray, 光線, こうせん, 
 Ray Tracing, 光線追跡法, こうせんついせきほう, 
 Rendering, 描画, びょうが, 
