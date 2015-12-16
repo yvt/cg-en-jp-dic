@@ -1,0 +1,1 @@
+# cg-en-jp-dic
