@@ -3,19 +3,31 @@ Buffer, 記憶領域, きおくりょういき, 出典なし
 Deferred Shading, 遅延陰影付け, ちえんいんえいづけ, 
 Depth Buffer, 深度記憶領域, しんどきおくりょういき,
 Depth Value, 深度値, しんどち, 
+Displacement Mapping, 変位写像法, へんいしゃぞうほう, 
 Forward Shading, 先方陰影付け, せんぽういんえいづけ, 出典なし
 Geometry, 幾何形状, きかけいじょう, 出典なし
 Geometry Pass, 幾何形状[???], きかけいじょう[???],
+Height Map, 高さ写像, たかさしゃぞう, 
 Image, 画像, がぞう,
 Material, 質感, しつかん, 
+Normal, 法線, ほうせん,
 Order Independent Transparency, 順序非依存型透過, じゅんじょひいぞんがたとうか, 
+Path Tracing, [???]追跡法, [???]ついせきほう, Pathって何?
 Perspective Transform, 投影変換, とうえいへんかん,
-Rendering, 描画,びょうが, 
+Polygon, 多角形, 「多角形」では三角形が含まれないようなニュアンスがある気がするので不適な場合があるかも?
+Ray, 光線, こうせん, 
+Ray Tracing, 光線追跡法, こうせんついせきほう, 
+Rendering, 描画, びょうが, 
 Rendering Pass, 描画[???], びょうが[???],
+Shader, [???], [???], 
 Shading, 陰影付け, いんえいづけ,
-Shadow Map, [???] , [???], 
+Shadow Map, [???]写像, [???]しゃぞう, 
 Texture, 肌理, きめ,
-Texture Mapping, [???]写像(法), きめしゃぞう(ほう), 
+Texture Coordinate, 肌目座標, きめざひょう,
+Texture Map, 肌理写像, きめしゃぞう, Texture Mapをルックアップテーブル的なものと考えると、この訳は正しくない気がする…
+Texture Mapping, 肌理写像法, きめしゃぞうほう,
+Triangle, 三角形, さんかくけい, 
+Vector, 方向量, ほうこうりょう,
 Vertex, 頂点, ちょうてん, 
 Z-buffer, [???]記憶領域, [???]きおくりょういき, 
 Z-buffering, [???]記憶領域法, [???]きおくりょういきほう, 不自然
