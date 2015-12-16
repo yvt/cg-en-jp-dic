@@ -1,6 +1,22 @@
-English, 日本語, 備考
-Buffer, 記憶領域,
-Deferred Shading, 遅延陰影付け,
-Forward Shading, 先方陰影付け,
-Rendering, 描画, 
-Shading, 陰影付け,
+English, 日本語, よみ, 備考
+Buffer, 記憶領域, きおくりょういき, 出典なし
+Deferred Shading, 遅延陰影付け, ちえんいんえいづけ, 
+Depth Buffer, 深度記憶領域, しんどきおくりょういき,
+Depth Value, 深度値, しんどち, 
+Forward Shading, 先方陰影付け, せんぽういんえいづけ, 出典なし
+Geometry, 幾何形状, きかけいじょう, 出典なし
+Geometry Pass, 幾何形状[???], きかけいじょう[???],
+Image, 画像, がぞう,
+Material, 質感, しつかん, 
+Order Independent Transparency, 順序非依存型透過, じゅんじょひいぞんがたとうか, 
+Perspective Transform, 投影変換, とうえいへんかん,
+Rendering, 描画,びょうが, 
+Rendering Pass, 描画[???], びょうが[???],
+Shading, 陰影付け, いんえいづけ,
+Shadow Map, [???] , [???], 
+Texture, 肌理, きめ
+Texture Mapping, [???]写像(法), きめしゃぞう(ほう), 
+Vertex, 頂点, ちょうてん, 
+Z-buffer, [???]記憶領域, [???]きおくりょういき, 
+Z-buffering, [???]記憶領域法, [???]きおくりょういきほう, 不自然
+Z Value, [???]値, [???]ち, 和算が参考になるかも?
